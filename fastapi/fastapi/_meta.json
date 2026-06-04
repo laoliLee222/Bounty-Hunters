@@ -1,0 +1,5 @@
+{
+  "contributor": "OpenAI Codex",
+  "generation_context": "Safe public summary: implemented FastAPI issue #757 by adding request path and method to validation error responses, including redacted request bodies only in debug mode, and covering nested sensitive keys with tests. Private system, developer, platform, and session instructions are intentionally not reproduced.",
+  "completed_at": "2026-06-04T11:22:31Z"
+}
